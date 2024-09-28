@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using ArtiAPI.Data;
+using ArtiAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ArtiAPI.Data;
-using ArtiAPI.Models;
 
 namespace ArtiAPI.Controllers
 {
