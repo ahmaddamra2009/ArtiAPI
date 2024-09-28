@@ -1,0 +1,6 @@
+@ArtiAPI_HostAddress = http://localhost:5298
+
+GET {{ArtiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
